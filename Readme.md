@@ -14,3 +14,5 @@
 Los assets utilizados son son los siguientes:
 - [Starter Assets - Third Person Character Controller] 
 - La luz y los objetos como los cubos son assets predeterminados de Unity.
+
+![gif resultante](gif.gif)
