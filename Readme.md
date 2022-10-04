@@ -1,5 +1,5 @@
 ## Práctica 1: Entorno Unity 3D
-Objetivo: Familiarizarse con la interfaz de Unity.
+## Objetivo: Familiarizarse con la interfaz de Unity.
 1.Crear un proyecto Unity 3D básico que cumpla los siguientes requisitos:
    Incluye GameObjects del menú
    Incluye GameObjects de la Asset Store
